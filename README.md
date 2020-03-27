@@ -1,2 +1,2 @@
-# collinkleest-gmail.com
-lit-element-demo
+# lit-element-demo
+
