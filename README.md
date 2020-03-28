@@ -10,8 +10,13 @@ sudo chown -R $USER /usr/local/lib/node_modules
 ```
 Install polymer-cli
 ```bash
-sudo npm install -g polymer-cli
+npm install -g polymer-cli
 ```
+
+Output should look similar to this.
+
+<img src="img/installed.png" height=400 width=600>
+
 
 Now lets install lit-element with npm.
 ```bash
